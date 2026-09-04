@@ -1,6 +1,11 @@
 <div align="center">
-  <h1>Hey There 👋 ! I'm Dr.K.DINESHKUMAR.</h1>
-  <p>Passionate Developer building modern, beautiful, and user-friendly projects.</p>
+  <h1>Hey There 👋 ! I'm Dr. K. DINESHKUMAR</h1>
+  <p>Passionate Developer & Researcher building modern, beautiful, and user-friendly projects.</p>
+
+  <!-- Profile Views Counter Badge -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=professordinesh108&label=Profile%20Views&color=bd93f9&style=for-the-badge" alt="Profile Views" />
+  </p>
 
   <!-- Social Icons -->
   <p>
@@ -63,10 +68,10 @@
 
   <br />
 
-  <!-- GitHub Stats (Dracula Theme) -->
+  <!-- GitHub Stats -->
   <h2>📊 GitHub Stats</h2>
   <p>
-    <img height="160" src="https://github-readme-stats-fast.vercel.app/api?username=professordinesh108&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Dinesh's GitHub Stats" />
+    <img height="160" src="https://github-readme-stats-fast.vercel.app/api?username=professordinesh108&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Dr. K. DINESHKUMAR's GitHub Stats" />
     <img height="160" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=professordinesh108&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="Most Used Languages" />
   </p>
 
