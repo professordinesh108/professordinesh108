@@ -2,6 +2,11 @@
   <h1>Hey There 👋 ! I'm Dr.K.DINESHKUMAR</h1>
   <p>Passionate Developer building modern, beautiful, and user-friendly projects.</p>
 
+  <!-- Profile Views Counter Badge -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=professordinesh108&label=Profile%20Views&color=bd93f9&style=for-the-badge" alt="Profile Views" />
+  </p>
+
   <!-- Social Icons -->
   <p>
     <a href="mailto:professordinesh108@gmail.com">
@@ -32,7 +37,7 @@
 
   <br />
 
-  <!-- GitHub Stats (Updated Working Dracula Theme Links) -->
+  <!-- GitHub Stats -->
   <h3>📊 GitHub Stats</h3>
   <p>
     <img height="160" src="https://github-readme-stats-fast.vercel.app/api?username=professordinesh108&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Dinesh's GitHub Stats" />
