@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hey There 👋 ! I'm Dinesh</h1>
+  <h1>Hey There 👋 ! I'm Dr.K.DINESHKUMAR</h1>
   <p>Passionate Developer building modern, beautiful, and user-friendly projects.</p>
 
   <!-- Social Icons -->
