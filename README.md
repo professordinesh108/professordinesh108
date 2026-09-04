@@ -32,11 +32,11 @@
 
   <br />
 
-  <!-- GitHub Stats (Dracula Theme) -->
+  <!-- GitHub Stats (Updated Working Dracula Theme Links) -->
   <h3>📊 GitHub Stats</h3>
   <p>
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=professordinesh108&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Dinesh's GitHub Stats" />
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=professordinesh108&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="Most Used Languages" />
+    <img height="160" src="https://github-readme-stats-fast.vercel.app/api?username=professordinesh108&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Dinesh's GitHub Stats" />
+    <img height="160" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=professordinesh108&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="Most Used Languages" />
   </p>
 
   <!-- GitHub Streak Stats -->
